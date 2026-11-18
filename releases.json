@@ -1,13 +1,13 @@
 {
-  "version": "0.1.1",
+  "version": "0.2.2",
   "repo": "quran-teacher-app/releases",
-  "tagUrl": "https://github.com/quran-teacher-app/releases/releases/tag/v0.1.1",
-  "updatedAt": "2026-11-17T14:22:21.094Z",
+  "tagUrl": "https://github.com/quran-teacher-app/releases/releases/tag/v0.2.2",
+  "updatedAt": "2026-11-18T03:54:57.983Z",
   "mobile": {
     "android": {
       "label": "تطبيق الأندرويد (APK)",
-      "version": "0.1.1",
-      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.1.1/quran-teacher-latest.apk",
+      "version": "0.2.2",
+      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.2.2/quran-teacher-latest.apk",
       "latestUrl": "https://github.com/quran-teacher-app/releases/releases/latest/download/quran-teacher-latest.apk",
       "size": "70.1 MB",
       "sha256": "f720633b312eeb32d29edd478420ac0e4eea128085ce59c2b221fb27976e5852",
@@ -18,19 +18,19 @@
   "desktop": {
     "windows_setup": {
       "label": "ويندوز (مثبّت Setup)",
-      "version": "0.1.1",
-      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.1.1/quran-teacher_0.1.1_x64-setup.exe",
+      "version": "0.2.2",
+      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.2.2/quran-teacher_0.2.2_x64-setup.exe",
       "size": "3.56 MB",
       "sha256": "ad21d5884d234a773e7b3a88272f4fc20b2a1ab9f1671041facaca658d74608e",
-      "filename": "quran-teacher_0.1.1_x64-setup.exe",
+      "filename": "quran-teacher_0.2.2_x64-setup.exe",
       "platform": "windows",
       "type": "setup",
       "notes": "تثبيت كامل مع اختصار على سطح المكتب وقائمة Start."
     },
     "windows_portable": {
       "label": "ويندوز (محمول Portable)",
-      "version": "0.1.1",
-      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.1.1/quran-teacher-portable.exe",
+      "version": "0.2.2",
+      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.2.2/quran-teacher-portable.exe",
       "size": "10.17 MB",
       "sha256": "ffdf3fbf7ba0a090d6b60fcc2b8b7d21ce5523e5cc4f71554e13faf5c4283f59",
       "filename": "quran-teacher-portable.exe",
@@ -40,22 +40,22 @@
     },
     "linux_appimage": {
       "label": "لينكس (حزمة AppImage مستقلة)",
-      "version": "0.1.1",
-      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.1.1/quran-teacher_0.1.1_amd64.AppImage",
+      "version": "0.2.2",
+      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.2.2/quran-teacher_0.2.2_amd64.AppImage",
       "size": "84.1 MB",
       "sha256": "054930dff8b516caa7259db258311c7aa2bb1b3502d95bf26b3655ac39c59613",
-      "filename": "quran-teacher_0.1.1_amd64.AppImage",
+      "filename": "quran-teacher_0.2.2_amd64.AppImage",
       "platform": "linux",
       "type": "appimage",
       "notes": "يعمل على جميع توزيعات لينكس (Ubuntu, Fedora, Arch) دون تثبيت."
     },
     "linux_deb": {
       "label": "لينكس (حزمة Debian / Ubuntu)",
-      "version": "0.1.1",
-      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.1.1/quran-teacher_0.1.1_amd64.deb",
+      "version": "0.2.2",
+      "url": "https://github.com/quran-teacher-app/releases/releases/download/v0.2.2/quran-teacher_0.2.2_amd64.deb",
       "size": "4.51 MB",
       "sha256": "9a4bb951484a46eb871482c6323f22ef244b730e8a9719cd554b24672f615ced",
-      "filename": "quran-teacher_0.1.1_amd64.deb",
+      "filename": "quran-teacher_0.2.2_amd64.deb",
       "platform": "linux",
       "type": "deb",
       "notes": "تثبيت مباشر بنقرة واحدة لـ Debian / Ubuntu / Mint."
